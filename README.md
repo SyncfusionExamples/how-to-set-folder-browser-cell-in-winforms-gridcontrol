@@ -1,4 +1,4 @@
-# How to set folder browser cell in winforms gridcontrol
+# How to Set Folder Browser Cell Type in WinForms GridControl?
 
 This example demonstrates how to set folder browser cell in [WinForms GridControl](https://www.syncfusion.com/winforms-ui-controls/grid-control).
 
